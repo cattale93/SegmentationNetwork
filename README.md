@@ -2,6 +2,7 @@
 Implementation of a Deep Convolutional Neural Network Full Patch Labelling for land cover classification.
 
 #### Scripts
+- net_trainer.py is the script emplyed to train the classifier
 - Data_downsampling.ipynb is jupyter notebook file and it is used to downsample images to 1x1 meter resolution
 - Data_processing_2_0.ipynb is used to fuse data and cut tiles
 - Split_Train_Test_Val_FINALE.ipynb is used to split data in train, test and validation
